@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @GI-Vela
+- 👀 I’m interested of computer in general
+- I'm studing the C++ code and I using the app CodeBlocks for programmiring
