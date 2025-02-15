@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @GI-Vela
-- 👀 I’m interested of computer in general
-- I'm studing the C++ code and I using the app CodeBlocks for programmiring
+- 👀 I’m interested in all type of electronics and computer science
+- I can programming apps in the languages: C++, java, html, css and php codes
